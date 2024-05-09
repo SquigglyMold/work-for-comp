@@ -1,13 +1,6 @@
-//test
-//the sky is blue
-//hello
-//hello
-        //hello
-        //hello
-
-//hhhhhhhhhhhhhhhhhhhhhh
 package shop.management.system.local;
-
+import jave.io.*;
+import java.util.Scanner;
 
 public class ShopManagementSystemLocal {
 
