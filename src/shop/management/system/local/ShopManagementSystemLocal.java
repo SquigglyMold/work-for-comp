@@ -17,5 +17,5 @@ public class ShopManagementSystemLocal {
 
         //kkkkkkkkkkkkkkkkkkkkkkk
     }
-    
+    //hello
 }
